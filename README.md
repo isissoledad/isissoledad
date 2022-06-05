@@ -3,7 +3,7 @@
  
  <h1 align="left">Hello, Devs!! 👋</h1>
   Sou desenvolvedora de software com experiência em desenvolvimento web com Python e Django.</br> 
-  🌱 Atualmente estudando para me arriscar na área mobile.</br>
+  🌱 Atualmente estudando para me aventurar na área mobile.</br>
   </br>
   </br>
   </br>
